@@ -8,7 +8,7 @@ Lista de Componentes Eletrônicos:
 
 4 - Pilhas AA
 
-4 - Leds 5mm
+4 - Leds 5mm (Os leds estão ligados direto no 5v do arduino)
 
 4 - Resistores
 
