@@ -10,6 +10,8 @@ Lista de Componentes Eletrônicos:
 
 4 - Leds 5mm
 
+4 - Resistores
+
 4 - Pares de contados de pilha AA
 
 1 - Motor de passo (28byj-48)
