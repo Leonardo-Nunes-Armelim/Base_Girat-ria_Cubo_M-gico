@@ -21,3 +21,6 @@ Lista de Componentes Eletrônicos:
 1 - Arduino Nano
 
 n - Fios / Jumpers
+
+
+Vídeo YouTube: https://www.youtube.com/watch?v=-3Y8pQ2dUug&t=3s
